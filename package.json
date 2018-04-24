@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/fabmil22/clima_uso-node/issues"
   },
-  "homepage": "https://github.com/fabmil22/clima_uso-node#readme"
+  "homepage": "https://github.com/fabmil22/clima_uso-node#readme",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "yargs": "^11.0.0"
+  }
 }
