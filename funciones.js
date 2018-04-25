@@ -19,10 +19,10 @@ let completeInformation = async ( direccion) =>{
  console.log(color.green(` Ciudad: ${direccion}`));
 
  
- console.log(color.red(` PRESION: ${pressure}`));
- console.log(color.green(` TEMPERATURA MINIMA: ${min}`));
- console.log(color.green(` TEMPERATURA ACTUAL: ${TEM}`));
- console.log(color.green(` TEMPERATURA MAXIMA: ${max}`));
+ console.log(color.grey(` PRESION: ${pressure}`));
+ console.log(color.cyan(` TEMPERATURA MINIMA: ${min}`));
+ console.log(color.cyan(` TEMPERATURA ACTUAL: ${TEM}`));
+ console.log(color.cyan(` TEMPERATURA MAXIMA: ${max}`));
 }
 
 
