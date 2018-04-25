@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/fabmil22/clima_uso-node#readme",
   "dependencies": {
+    "axios": "^0.18.0",
     "colors": "^1.2.1",
     "yargs": "^11.0.0"
   }
